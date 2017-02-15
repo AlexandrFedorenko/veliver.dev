@@ -2,57 +2,195 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9396842-e64c-4b05-833a-0b7cd2d5b9f9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/BG-2.png" afterPath="$PROJECT_DIR$/img/BG-2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/img-1.jpg" afterPath="$PROJECT_DIR$/img/img-1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/img-2.jpg" afterPath="$PROJECT_DIR$/img/img-2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/img-3.jpg" afterPath="$PROJECT_DIR$/img/img-3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/img-4.jpg" afterPath="$PROJECT_DIR$/img/img-4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/img-5.jpg" afterPath="$PROJECT_DIR$/img/img-5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/img-6.jpg" afterPath="$PROJECT_DIR$/img/img-6.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/img-7.jpg" afterPath="$PROJECT_DIR$/img/img-7.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/img-8.jpg" afterPath="$PROJECT_DIR$/img/img-8.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/img-9.jpg" afterPath="$PROJECT_DIR$/img/img-9.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/item-1.png" afterPath="$PROJECT_DIR$/img/item-1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/item-10.png" afterPath="$PROJECT_DIR$/img/item-10.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/item-11.png" afterPath="$PROJECT_DIR$/img/item-11.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/item-12.png" afterPath="$PROJECT_DIR$/img/item-12.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/item-2.png" afterPath="$PROJECT_DIR$/img/item-2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/item-3.png" afterPath="$PROJECT_DIR$/img/item-3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/item-4.png" afterPath="$PROJECT_DIR$/img/item-4.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/item-5.png" afterPath="$PROJECT_DIR$/img/item-5.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/item-6.png" afterPath="$PROJECT_DIR$/img/item-6.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/item-7.png" afterPath="$PROJECT_DIR$/img/item-7.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/item-8.png" afterPath="$PROJECT_DIR$/img/item-8.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/item-9.png" afterPath="$PROJECT_DIR$/img/item-9.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/item-footer-app.png" afterPath="$PROJECT_DIR$/img/item-footer-app.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/kuhna-slid.png" afterPath="$PROJECT_DIR$/img/kuhna-slid.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/kuhna2-ch.png" afterPath="$PROJECT_DIR$/img/kuhna2-ch.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/kuhna3-ch.png" afterPath="$PROJECT_DIR$/img/kuhna3-ch.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/logo-1.png" afterPath="$PROJECT_DIR$/img/logo-1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/logo-2.png" afterPath="$PROJECT_DIR$/img/logo-2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/logo-3.png" afterPath="$PROJECT_DIR$/img/logo-3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/logo-4.png" afterPath="$PROJECT_DIR$/img/logo-4.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/logo-5.png" afterPath="$PROJECT_DIR$/img/logo-5.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/logo-6.png" afterPath="$PROJECT_DIR$/img/logo-6.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/mastercard-footer.png" afterPath="$PROJECT_DIR$/img/mastercard-footer.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/ot-img-1.png" afterPath="$PROJECT_DIR$/img/ot-img-1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/slid-active.png" afterPath="$PROJECT_DIR$/img/slid-active.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/visa.png" afterPath="$PROJECT_DIR$/img/visa.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/font-awesome-4.2.0/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/libs/font-awesome-4.2.0/fonts/FontAwesome.otf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/font-awesome-4.2.0/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/libs/font-awesome-4.2.0/fonts/fontawesome-webfont.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/font-awesome-4.2.0/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/libs/font-awesome-4.2.0/fonts/fontawesome-webfont.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/font-awesome-4.2.0/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/libs/font-awesome-4.2.0/fonts/fontawesome-webfont.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/media.css" afterPath="$PROJECT_DIR$/css/media.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/media.less" afterPath="$PROJECT_DIR$/css/media.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.less" afterPath="$PROJECT_DIR$/css/style.less" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/.gitattributes" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/CONTRIBUTING.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/Gruntfile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/_config.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/dist/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/dist/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/dist/assets/ajax-loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/dist/assets/owl.carousel.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/dist/assets/owl.carousel.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/dist/assets/owl.theme.default.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/dist/assets/owl.theme.default.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/dist/assets/owl.theme.green.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/dist/assets/owl.theme.green.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/dist/assets/owl.video.play.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/dist/owl.carousel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/dist/owl.carousel.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs/assets/css/animate.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs/assets/css/docs.theme.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs/assets/img/bird_blue_32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs/assets/img/download.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs/assets/img/feature-drag.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs/assets/img/feature-modern.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs/assets/img/feature-module.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs/assets/img/feature-options.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs/assets/img/feature-responsive.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs/assets/img/feature-zombie.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs/assets/img/owl-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs/assets/img/twitter_25.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs/assets/js/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs/assets/js/foundation.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs/assets/owlcarousel/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs/assets/owlcarousel/assets/ajax-loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs/assets/owlcarousel/assets/owl.carousel.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs/assets/owlcarousel/assets/owl.carousel.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs/assets/owlcarousel/assets/owl.theme.default.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs/assets/owlcarousel/assets/owl.theme.default.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs/assets/owlcarousel/assets/owl.theme.green.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs/assets/owlcarousel/assets/owl.theme.green.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs/assets/owlcarousel/assets/owl.video.play.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs/assets/owlcarousel/owl.carousel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs/assets/owlcarousel/owl.carousel.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs/assets/vendors/foundation.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs/assets/vendors/highlight.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs/assets/vendors/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs/assets/vendors/jquery.min.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs/assets/vendors/jquery.mousewheel.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs/demos/animate.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs/demos/autoheight.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs/demos/autoplay.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs/demos/autowidth.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs/demos/basic.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs/demos/center.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs/demos/demos.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs/demos/events.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs/demos/lazyLoad.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs/demos/merge.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs/demos/mousewheel.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs/demos/responsive.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs/demos/rtl.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs/demos/stagepadding.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs/demos/test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs/demos/urlhashnav.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs/demos/video.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs/docs/api-classes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs/docs/api-events.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs/docs/api-options.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs/docs/dev-buildin-plugins.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs/docs/dev-external.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs/docs/dev-plugin-api.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs/docs/dev-styles.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs/docs/started-faq.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs/docs/started-installation.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs/docs/started-welcome.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs/docs/support-changelog.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs/docs/support-contact.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs/docs/support-contributing.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/assets/css/animate.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/assets/img/bird_blue_32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/assets/img/download.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/assets/img/feature-drag.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/assets/img/feature-modern.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/assets/img/feature-module.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/assets/img/feature-options.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/assets/img/feature-responsive.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/assets/img/feature-zombie.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/assets/img/owl-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/assets/img/twitter_25.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/assets/js/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/assets/js/foundation.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/assets/scss/_settings.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/assets/scss/custom.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/assets/scss/demos.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/assets/scss/docs.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/assets/scss/docs.theme.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/assets/scss/highlight.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/assets/vendors/foundation.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/assets/vendors/highlight.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/assets/vendors/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/assets/vendors/jquery.min.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/assets/vendors/jquery.mousewheel.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/data/classes.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/data/events.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/data/features.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/data/options.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/helpers/modulo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/helpers/test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/templates/layouts/demos.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/templates/layouts/docs.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/templates/layouts/home.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/templates/pages/demos/animate.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/templates/pages/demos/autoheight.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/templates/pages/demos/autoplay.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/templates/pages/demos/autowidth.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/templates/pages/demos/basic.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/templates/pages/demos/center.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/templates/pages/demos/demos.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/templates/pages/demos/events.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/templates/pages/demos/lazyLoad.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/templates/pages/demos/merge.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/templates/pages/demos/mousewheel.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/templates/pages/demos/responsive.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/templates/pages/demos/rtl.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/templates/pages/demos/stagepadding.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/templates/pages/demos/test.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/templates/pages/demos/urlhashnav.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/templates/pages/demos/video.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/templates/pages/docs/api-classes.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/templates/pages/docs/api-events.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/templates/pages/docs/api-options.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/templates/pages/docs/dev-buildin-plugins.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/templates/pages/docs/dev-external.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/templates/pages/docs/dev-plugin-api.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/templates/pages/docs/dev-styles.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/templates/pages/docs/started-faq.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/templates/pages/docs/started-installation.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/templates/pages/docs/started-welcome.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/templates/pages/docs/support-changelog.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/templates/pages/docs/support-contact.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/templates/pages/docs/support-contributing.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/templates/pages/index.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/templates/partials/footer.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/templates/partials/head.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/templates/partials/header.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/templates/partials/home-carousel.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/templates/partials/home-features.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/templates/partials/home-hero.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/templates/partials/home-teaser-text.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/templates/partials/javascripts.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/templates/partials/releated-docs.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/templates/partials/sidenav-docs.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/templates/partials/title.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/docs_src/templates/partials/vendors.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/src/img/ajax-loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/src/img/owl.video.play.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/src/js/.jscsrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/src/js/.jshintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/src/js/owl.animate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/src/js/owl.autoheight.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/src/js/owl.autoplay.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/src/js/owl.autorefresh.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/src/js/owl.carousel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/src/js/owl.hash.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/src/js/owl.lazyload.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/src/js/owl.navigation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/src/js/owl.support.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/src/js/owl.support.modernizr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/src/js/owl.video.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/src/scss/_animate.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/src/scss/_autoheight.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/src/scss/_core.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/src/scss/_lazyload.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/src/scss/_theme.default.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/src/scss/_theme.green.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/src/scss/_theme.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/src/scss/_video.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/src/scss/owl.carousel.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/src/scss/owl.theme.default.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/src/scss/owl.theme.green.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/test/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/owl-carousel/OwlCarousel2-2.2.0/test/unit/core.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/common.js" afterPath="$PROJECT_DIR$/js/common.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/font-awesome-4.2.0/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/libs/font-awesome-4.2.0/css/font-awesome.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/font-awesome-4.2.0/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/libs/font-awesome-4.2.0/fonts/fontawesome-webfont.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/owl-carousel/owl.carousel.css" afterPath="$PROJECT_DIR$/libs/owl-carousel/owl.carousel.css" />
     </list>
     <ignored path="veliver.dev.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -76,8 +214,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4">
-              <caret line="130" column="33" selection-start-line="130" selection-start-column="33" selection-end-line="130" selection-end-column="33" />
+            <state relative-caret-position="391">
+              <caret line="26" column="73" selection-start-line="26" selection-start-column="73" selection-end-line="26" selection-end-column="73" />
               <folding>
                 <element signature="n#style#0;n#h6#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h6#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -86,11 +224,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.less" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/style.less">
+      <file leaf-file-name="common.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/common.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="463">
-              <caret line="1118" column="0" selection-start-line="1118" selection-start-column="0" selection-end-line="1118" selection-end-column="0" />
+            <state relative-caret-position="-3157">
+              <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -100,27 +238,17 @@
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="196">
-              <caret line="1107" column="6" selection-start-line="1107" selection-start-column="0" selection-end-line="1107" selection-end-column="6" />
+              <caret line="1107" column="6" selection-start-line="0" selection-start-column="0" selection-end-line="1851" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="media.less" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/media.less">
+      <file leaf-file-name="main.min.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/main.min.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="259">
-              <caret line="683" column="3" selection-start-line="683" selection-start-column="3" selection-end-line="683" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="common.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/common.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+            <state relative-caret-position="0">
+              <caret line="0" column="22602" selection-start-line="0" selection-start-column="22602" selection-end-line="0" selection-end-column="22602" />
               <folding />
             </state>
           </provider>
@@ -133,6 +261,7 @@
       <list>
         <option value="Less File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -150,10 +279,11 @@
         <option value="$PROJECT_DIR$/libs/slider_1/jquery.waterwheelCarousel.js" />
         <option value="$PROJECT_DIR$/libs/slik/slick-theme.css" />
         <option value="$PROJECT_DIR$/js/common.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/media.less" />
         <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/css/style.less" />
+        <option value="$PROJECT_DIR$/css/main.min.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -236,20 +366,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="veliver.dev" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="veliver.dev" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -282,7 +398,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../landing-mobilev2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
-    <property name="list.type.of.created.stylesheet" value="Less" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
   </component>
   <component name="RunManager">
@@ -362,12 +478,12 @@
       <workItem from="1486969616104" duration="34950000" />
       <workItem from="1487057446391" duration="20979000" />
       <workItem from="1487080837622" duration="8072000" />
-      <workItem from="1487146293013" duration="4441000" />
+      <workItem from="1487146293013" duration="5826000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="101655000" />
+    <option name="totallyTimeSpent" value="103040000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="776" extended-state="7" />
@@ -735,14 +851,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/calc.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="59" column="45" selection-start-line="59" selection-start-column="10" selection-end-line="59" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/libs/slider_1/jquery.waterwheelCarousel.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="608">
@@ -775,22 +883,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/common.js">
+    <entry file="file://$PROJECT_DIR$/css/style.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+        <state relative-caret-position="463">
+          <caret line="1118" column="0" selection-start-line="1118" selection-start-column="0" selection-end-line="1118" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4">
-          <caret line="130" column="33" selection-start-line="130" selection-start-column="33" selection-end-line="130" selection-end-column="33" />
-          <folding>
-            <element signature="n#style#0;n#h6#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h6#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -805,15 +902,42 @@
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="196">
-          <caret line="1107" column="6" selection-start-line="1107" selection-start-column="0" selection-end-line="1107" selection-end-column="6" />
+          <caret line="1107" column="6" selection-start-line="0" selection-start-column="0" selection-end-line="1851" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.less">
+    <entry file="file://$PROJECT_DIR$/css/main.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="463">
-          <caret line="1118" column="0" selection-start-line="1118" selection-start-column="0" selection-end-line="1118" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="22602" selection-start-line="0" selection-start-column="22602" selection-end-line="0" selection-end-column="22602" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="26" column="73" selection-start-line="26" selection-start-column="73" selection-end-line="26" selection-end-column="73" />
+          <folding>
+            <element signature="n#style#0;n#h6#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h6#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/calc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="59" column="45" selection-start-line="59" selection-start-column="10" selection-end-line="59" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3157">
+          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
           <folding />
         </state>
       </provider>
