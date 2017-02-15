@@ -20,104 +20,638 @@
 	<link rel="icon" href="img/favicon.png" type="image/x-icon">
 	<link rel="apple-touch-icon" href="img/favicon.png">
 	<!-- /Favicon -->
+
 	<link rel="stylesheet" href="libs/bootstrap/bootstrap-grid-3.3.1.min.css" />
 	<link rel="stylesheet" href="libs/font-awesome-4.2.0/css/font-awesome.min.css" />
+
 	<link rel="stylesheet" href="libs/fancybox/jquery.fancybox.css" />
-	<link rel="stylesheet" href="libs/owl-carousel/owl.carousel.css" />
-	<link rel="stylesheet" href="css/normalize.css" />
-	<link rel="stylesheet" href="css/main.css" />
+	<link rel="stylesheet" href="libs/slik/slick.css">
+	<link rel="stylesheet" href="libs/slik/slick-theme.css">
 	<link rel="stylesheet" href="libs/title/html5tooltips.animation.css">
 	<link rel="stylesheet" href="libs/title/html5tooltips.css">
+	<link rel="stylesheet" href="libs/owl-carousel/owl.theme.css">
+	<link rel="stylesheet" href="libs/owl-carousel/owl.theme.default.css">
+	
+	<link rel="stylesheet" href="css/normalize.css" />
+	<link rel="stylesheet" href="css/main.css" />
 	<script src="libs/modernize/modernizr-2.8.3.min.js"></script>
 </head>
 <body>
 	<!--[if lt IE 8]>
 		<p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
 	<![endif]-->
+<div class="bg-bloc_1 main_head">
 
-<header class="main_head">
-<div class="wrap-menu">
-	<div class="container header-con">
-		<div class="row">
-			<div class="col-md-3 col-sm-12">
-				<div class="logo">
-					<a href="#">
-						<img src="img/logo.png" alt="logo">
-						<p class="logo-text">Веливер Сервис</p>
-						<span class="logo-span">клининговая компания</span>
-					</a>
+	<header >
+		<div class="wrap-menu">
+			<div class="container header-con">
+				<div class="row">
+					<div class="col-md-3 col-sm-12">
+						<div class="logo">
+							<a href="#">
+								<img src="img/logo.png" alt="logo">
+								<p class="logo-text">Веливер Сервис</p>
+								<span class="logo-span">клининговая компания</span>
+							</a>
+						</div>
+					</div>
+					<div class="col-md-3 col-sm-12">
+						<p class="number-text">тел: +7 960 222 22 22</p>
+						<a href="tel:+79602222222" class="coll">перезвонить</a>
+					</div>
+					<div class="col-md-6 col-sm-12">
+						<ul class="soc-mob ">
+							<li class="icon icon-mob"><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+							<li class="icon icon-mob"><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+							<li class="yotube icon icon-mob" ><a href="#"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
+							<li  class="icon icon-mob"><a href="#"><i class="fa fa-vk" aria-hidden="true"></i></a></li>
+						</ul>
+						<ul class="soc-menu">
+							<li class="icon"><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+							<li class="icon"><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+							<li class="yotube icon"><a href="#"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
+							<li  class="icon"><a href="#"><i class="fa fa-vk" aria-hidden="true"></i></a></li>
+							<li class="text-menu"><a href="#">Блог</a></li>
+							<li class="text-menu"><a href="#">вход</a></li>
+							<li class="lang deactive" id="en"><a href="#">en</a></li>
+							<li class="lang active" id="ru"><a href="#">ru</a></li>
+						</ul>
+					</div>
 				</div>
 			</div>
-			<div class="col-md-3 col-sm-12">
-				<p class="number-text">тел: +7 960 222 22 22</p>
-				<a href="tel:+79602222222" class="coll">перезвонить</a>
-			</div>
-			<div class="col-md-6 col-sm-12">
-				<ul class="soc-mob ">
-					<li class="icon icon-mob"><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-					<li class="icon icon-mob"><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-					<li class="yotube icon icon-mob" ><a href="#"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
-					<li  class="icon icon-mob"><a href="#"><i class="fa fa-vk" aria-hidden="true"></i></a></li>
-				</ul>
-				<ul class="soc-menu">
-					<li class="icon"><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-					<li class="icon"><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-					<li class="yotube icon"><a href="#"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
-					<li  class="icon"><a href="#"><i class="fa fa-vk" aria-hidden="true"></i></a></li>
-					<li class="text-menu"><a href="#">Блог</a></li>
-					<li class="text-menu"><a href="#">вход</a></li>
-					<li class="lang deactive" id="en"><a href="#">en</a></li>
-					<li class="lang active" id="ru"><a href="#">ru</a></li>
-				</ul>
+			<div class="bloc-head"></div>
+		</div>
+	</header>
+	<section>
+		<h6 style="display: none;">h</h6>
+		<div class="container wrap-calc">
+			<div class="row">
+				<div class="col-md-3 col-sm-6 cal-bloc-wrap">
+					<div class="wrap-expres">
+						<button class="bt-express" id="bt1">ЭКСПРЕСС</button>
+						<img src="img/icon-1-row-1-calc.png" alt="expres img" class="img-express">
+						<p class="hint--bottom exp" data-tooltip="Экспресс - быстрая <br> уборка раз в неделю" ><i class="fa fa-question express-qvestion " aria-hidden="true"></i></p>
+						<img src="img/icon-1-row-2-calc.png"  data-tooltip="Однокомнатная квартира" alt="img" class="img-odna-k">
+						<button class="bt-odna-k" id="bt5">1-комнатная</button>
+					</div>
+				</div>
+				<div class="col-md-3 col-sm-6 cal-bloc-wrap cal-bloc-wrap-tablet">
+					<div class="wrap-expres">
+						<button class="bt-express" id="bt2">СТАНДАРТ</button>
+						<img src="img/icon-2-row-1-calc.png" alt="expres img" class="img-express">
+						<p class="hint--bottom exp" data-tooltip=" Стандарт – поддерживающая <br> уборка раз в 2 недели" ><i class="fa fa-question express-qvestion qvest-2 " aria-hidden="true"></i></p>
+						<img src="img/icon-2-row-2-calc.png"  data-tooltip="Двухкомнатная квартира" alt="img" class="img-odna-k">
+						<button class="bt-odna-k" id="bt6">2-комнатная</button>
+					</div>
+				</div>
+				<div class="col-md-3 col-sm-6 cal-bloc-wrap" >
+					<div class="wrap-expres">
+						<button class="bt-express" id="bt3">VIP</button>
+						<img src="img/icon-3-row-1-calc.png" alt="expres img" class="img-express">
+						<p class="hint--bottom exp" data-tooltip=" VIP – полная генеральная <br> разовая уборка" ><i class="fa fa-question express-qvestion qvest-3 " aria-hidden="true"></i></p>
+						<img src="img/icon-3-row-2-calc.png"  data-tooltip="Трехкомнатная квартира " alt="img" class="img-odna-k">
+						<button class="bt-odna-k" id="bt7">3-комнатная</button>
+					</div>
+				</div>
+				<div class="col-md-3 col-sm-6 cal-bloc-wrap wrap-calc-last">
+					<div class="wrap-expres">
+						<button class="bt-express" id="bt4">ПОСЛЕСТРОЙ</button>
+						<img src="img/icon-4-row1-calc.png" alt="expres img" class="img-express">
+						<p class="hint--bottom exp" data-tooltip="Послестрой – полная <br> уборка после ремонта <br> или строительства" ><i class="fa fa-question express-qvestion " aria-hidden="true"></i></p>
+						<img src="img/icon-4-row-2-calc.png" data-tooltip="Четырехкомнатная квартира" alt="img" class="img-odna-k">
+						<button class="bt-odna-k" id="bt8">4-комнатная</button>
+					</div>
+				</div>
+				<div class="pole-text" ><div id="pole-text"></div></div>
 			</div>
 		</div>
-	</div>
-	<div class="bloc-head"></div>
+		<button class="raschet" onclick="raschitat();" >расчитать</button>
+	</section>
 </div>
-	<div class="container wrap-calc">
-		<div class="row">
-			<div class="col-md-3 col-sm-6 cal-bloc-wrap">
-				<div class="wrap-expres">
-					<button class="bt-express" id="bt1">ЭКСПРЕСС</button>
-					<img src="img/icon-1-row-1-calc.png" alt="expres img" class="img-express">
-					<p class="hint--bottom exp" data-tooltip="Экспресс - быстрая <br> уборка раз в неделю" ><i class="fa fa-question express-qvestion " aria-hidden="true"></i></p>
-					<img src="img/icon-1-row-2-calc.png"  data-tooltip="Однокомнатная квартира" alt="img" class="img-odna-k">
-					<button class="bt-odna-k" id="bt5">1-комнатная</button>
-				</div>
-			</div>
-			<div class="col-md-3 col-sm-6 cal-bloc-wrap">
-				<div class="wrap-expres">
-					<button class="bt-express" id="bt2">СТАНДАРТ</button>
-					<img src="img/icon-2-row-1-calc.png" alt="expres img" class="img-express">
-					<p class="hint--bottom exp" data-tooltip=" Стандарт – поддерживающая <br> уборка раз в 2 недели" ><i class="fa fa-question express-qvestion qvest-2 " aria-hidden="true"></i></p>
-					<img src="img/icon-2-row-2-calc.png"  data-tooltip="Двухкомнатная квартира" alt="img" class="img-odna-k">
-					<button class="bt-odna-k" id="bt6">2-комнатная</button>
-				</div>
-			</div>
-			<div class="col-md-3 col-sm-6 cal-bloc-wrap" >
-				<div class="wrap-expres">
-					<button class="bt-express" id="bt3">VIP</button>
-					<img src="img/icon-3-row-1-calc.png" alt="expres img" class="img-express">
-					<p class="hint--bottom exp" data-tooltip=" VIP – полная генеральная <br> разовая уборка" ><i class="fa fa-question express-qvestion qvest-3 " aria-hidden="true"></i></p>
-					<img src="img/icon-3-row-2-calc.png"  data-tooltip="Трехкомнатная квартира " alt="img" class="img-odna-k">
-					<button class="bt-odna-k" id="bt7">3-комнатная</button>
-				</div>
-			</div>
-			<div class="col-md-3 col-sm-6 cal-bloc-wrap wrap-calc-last">
-				<div class="wrap-expres">
-					<button class="bt-express" id="bt4">ПОСЛЕСТРОЙ</button>
-					<img src="img/icon-4-row1-calc.png" alt="expres img" class="img-express">
-					<p class="hint--bottom exp" data-tooltip="Послестрой – полная <br> уборка после ремонта <br> или строительства" ><i class="fa fa-question express-qvestion " aria-hidden="true"></i></p>
-					<img src="img/icon-4-row-2-calc.png" data-tooltip="Четырехкомнатная квартира" alt="img" class="img-odna-k">
-					<button class="bt-odna-k" id="bt8">4-комнатная</button>
-				</div>
-			</div>
-			<div class="pole-text" ><div id="pole-text"></div></div>
-		</div>
-	</div>
-	<button class="raschet" onclick="raschitat();" >расчитать</button>
-</header>
+<div class="bg-bloc2  main_head">
+	<section class="slider-mob-non">
+		<h6 style="display: none;">h</h6>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="slider_1">
+						<!-- Slider_1-mob -->
+					<div id="carousel2">
+						<div class="img-slid1">
+							<img class="slid1 " src="img/kuhna-slid.png" alt="">
+							<div class="points green">
+								<span class="point1"  data-tooltip="Влажная уборка пола "><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point2" data-tooltip="Протирка всех столов и<br>  горизонтальных поверхностей" ><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point3" data-tooltip="Мытье посуды <br> (1 заполненная раковина) " ><i class="fa fa-circle" aria-hidden="true"></i></span>
+							</div>
+							<div class="points blue">
+								<span class="point1"  data-tooltip="Мойка рабочей поверхности кухонной плиты  "><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point2" data-tooltip="Мойка дверных блоков и наличников, протирка фурнитуры " ><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point3" data-tooltip="Мойка внешних поверхностей кухонных шкафов, холодильника" ><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point4" data-tooltip="Мойка кухонной техники снаружи " ><i class="fa fa-circle" aria-hidden="true"></i></span>
+							</div>
+							<div class="points red">
+								<span class="point1"  data-tooltip="Протирка рабочей зоны вытяжки"><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point2" data-tooltip="Протирка кухонного фартука" ><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point3" data-tooltip="Мойка внутренних поверхностей кухонных шкафов" ><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point4" data-tooltip="Протирка от пыли стен и потолков сухим мопом " ><i class="fa fa-circle" aria-hidden="true"></i></span>
+							</div>
+							<div class="points orang">
+								<span class="point1"  data-tooltip="Уборка пола: удаление строительной пыли,<br> грязи, пятен краски, цемента"><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point2" data-tooltip="Мойка всех поверхностей: мебель, светильники,<br> радиаторы отопления, техника" ><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point3" data-tooltip="Мойка сантехники, удаление загрязнений с плитки, очистка швов" ><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point4" data-tooltip="Мойка внутренней отделки балконов и лоджий " ><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point5" data-tooltip="Чистка стен, декоративных стеновых покрытий<br> от строительной пыли и загрязнений" ><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point6" data-tooltip="Сухая очистка потолков от строительной пыли" ><i class="fa fa-circle" aria-hidden="true"></i></span>
+							</div>
+						</div>
+						<div class="img-slid2">
+							<img class="slid2" src="img/kuhna3-ch.png" alt="">
+							<div class="points green2">
+								<span class="point1" data-tooltip="Мытье и дезинфекция ванны<br> или душевой кабины <br>спец. средствами"><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point2" data-tooltip="Мытье и дезинфекция умывальник,<br> унитаза, биде "><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point3" data-tooltip="Придание блеска металлическим <br>хромированным предметам"><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point4" data-tooltip="Удаление налета,<br> водного камня, ржавчины "><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point5" data-tooltip="Влажная уборка пола "><i class="fa fa-circle" aria-hidden="true"></i></span>
+							</div>
+							<div class="points blue2">
+								<span class="point1" data-tooltip="Мытье кафельной плитки в местах загрязнений "><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point2" data-tooltip="Мойка внешних поверхностей зеркальных шкафчиков  "><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point3" data-tooltip="Мойка дверных блоков и наличников, протирка фурнитуры "><i class="fa fa-circle" aria-hidden="true"></i></span>
 
+							</div>
+							<div class="points red2">
+								<span class="point1" data-tooltip="Мытье кафельной плитки от пола до потолка "><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point2" data-tooltip="Удаление пыли с потолка  "><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point3" data-tooltip="Мойка внутренних поверхностей зеркальных шкафчиков "><i class="fa fa-circle" aria-hidden="true"></i></span>
+							</div>
+							<div class="points orang2">
+								<span class="point1"  data-tooltip="Уборка пола: удаление строительной пыли,<br> грязи, пятен краски, цемента"><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point2" data-tooltip="Мойка всех поверхностей: мебель, светильники,<br> радиаторы отопления, техника" ><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point3" data-tooltip="Мойка сантехники, удаление загрязнений с плитки, очистка швов" ><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point4" data-tooltip="Мойка внутренней отделки балконов и лоджий " ><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point5" data-tooltip="Чистка стен, декоративных стеновых покрытий<br> от строительной пыли и загрязнений" ><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point6" data-tooltip="Сухая очистка потолков от строительной пыли" ><i class="fa fa-circle" aria-hidden="true"></i></span>
+							</div>
+						</div>
+						<div class="img-slid3">
+							<img class="slid3" src="img/kuhna2-ch.png" alt="">
+							<div class="points green3">
+								<span class="point1" data-tooltip="Уборка вещей и раскладка их <br> в аккуратные стопочки "><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point2" data-tooltip="Протирка пыли со всех горизонт.<br> поверхн. (не выше поднятой руки)"><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point3" data-tooltip="Протирка пыли с напольных и <br> настольных осветительных приборов"><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point4" data-tooltip="Мытье зеркал "><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point5" data-tooltip="Сухая уборка пылесосом полов,<br> ковролина и напольных ковров"><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point6" data-tooltip="Мойка пола бактерицидными,<br> ухаживающими средствами. "><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point7" data-tooltip="Вынос мусора (до 10 кг.) "><i class="fa fa-circle" aria-hidden="true"></i></span>
+							</div>
+							<div class="points blue3">
+								<span class="point1" data-tooltip="Чистка настенных осветительных приборов  "><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point2" data-tooltip="Протирка, плинтусов "><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point3" data-tooltip="Протирка внешних деревянных поверхностей мебели и дверных блоков "><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point4" data-tooltip="Протирка отопительных батарей и экранов на них "><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point5" data-tooltip="Протирка крупных предметов интерьера "><i class="fa fa-circle" aria-hidden="true"></i></span>
+
+							</div>
+							<div class="points red3">
+								<span class="point1" data-tooltip="Сухая уборка пылесосом мягкой мебели  "><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point2" data-tooltip="Протирка внутренних поверхностей мебели "><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point3" data-tooltip="Протирка ламп, люстр на потолке (кроме хрусталя)"><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point4" data-tooltip="Удаление пыли с карнизов, протирка кондиционеров  "><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point5" data-tooltip="Протирка от пыли стен и потолков сухим мопом "><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point6" data-tooltip="Удаление пыли влажным способом с кожаной мебели  "><i class="fa fa-circle" aria-hidden="true"></i></span>
+							</div>
+							<div class="points orang3">
+								<span class="point1"  data-tooltip="Уборка пола: удаление строительной пыли,<br> грязи, пятен краски, цемента"><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point2" data-tooltip="Мойка всех поверхностей: мебель, светильники,<br> радиаторы отопления, техника" ><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point3" data-tooltip="Мойка сантехники, удаление загрязнений с плитки, очистка швов" ><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point4" data-tooltip="Мойка внутренней отделки балконов и лоджий " ><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point5" data-tooltip="Чистка стен, декоративных стеновых покрытий<br> от строительной пыли и загрязнений" ><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point6" data-tooltip="Сухая очистка потолков от строительной пыли" ><i class="fa fa-circle" aria-hidden="true"></i></span>
+							</div>
+						</div>
+					</div>
+					<div id="carousel">
+						<div class="img-slid1">
+							<img class="slid1 " src="img/kuhna-slid.png" alt="">
+							<div class="points green">
+								<span class="point1"  data-tooltip="Влажная уборка пола "><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point2" data-tooltip="Протирка всех столов и<br>  горизонтальных поверхностей" ><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point3" data-tooltip="Мытье посуды <br> (1 заполненная раковина) " ><i class="fa fa-circle" aria-hidden="true"></i></span>
+							</div>
+							<div class="points blue">
+								<span class="point1"  data-tooltip="Мойка рабочей поверхности кухонной плиты  "><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point2" data-tooltip="Мойка дверных блоков и наличников, протирка фурнитуры " ><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point3" data-tooltip="Мойка внешних поверхностей кухонных шкафов, холодильника" ><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point4" data-tooltip="Мойка кухонной техники снаружи " ><i class="fa fa-circle" aria-hidden="true"></i></span>
+							</div>
+							<div class="points red">
+								<span class="point1"  data-tooltip="Протирка рабочей зоны вытяжки"><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point2" data-tooltip="Протирка кухонного фартука" ><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point3" data-tooltip="Мойка внутренних поверхностей кухонных шкафов" ><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point4" data-tooltip="Протирка от пыли стен и потолков сухим мопом " ><i class="fa fa-circle" aria-hidden="true"></i></span>
+							</div>
+							<div class="points orang">
+								<span class="point1"  data-tooltip="Уборка пола: удаление строительной пыли,<br> грязи, пятен краски, цемента"><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point2" data-tooltip="Мойка всех поверхностей: мебель, светильники,<br> радиаторы отопления, техника" ><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point3" data-tooltip="Мойка сантехники, удаление загрязнений с плитки, очистка швов" ><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point4" data-tooltip="Мойка внутренней отделки балконов и лоджий " ><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point5" data-tooltip="Чистка стен, декоративных стеновых покрытий<br> от строительной пыли и загрязнений" ><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point6" data-tooltip="Сухая очистка потолков от строительной пыли" ><i class="fa fa-circle" aria-hidden="true"></i></span>
+							</div>
+						</div>
+						<div class="img-slid2">
+							<img class="slid2" src="img/kuhna3-ch.png" alt="">
+							<div class="points green2">
+								<span class="point1" data-tooltip="Мытье и дезинфекция ванны<br> или душевой кабины <br>спец. средствами"><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point2" data-tooltip="Мытье и дезинфекция умывальник,<br> унитаза, биде "><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point3" data-tooltip="Придание блеска металлическим <br>хромированным предметам"><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point4" data-tooltip="Удаление налета,<br> водного камня, ржавчины "><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point5" data-tooltip="Влажная уборка пола "><i class="fa fa-circle" aria-hidden="true"></i></span>
+							</div>
+							<div class="points blue2">
+								<span class="point1" data-tooltip="Мытье кафельной плитки в местах загрязнений "><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point2" data-tooltip="Мойка внешних поверхностей зеркальных шкафчиков  "><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point3" data-tooltip="Мойка дверных блоков и наличников, протирка фурнитуры "><i class="fa fa-circle" aria-hidden="true"></i></span>
+
+							</div>
+							<div class="points red2">
+								<span class="point1" data-tooltip="Мытье кафельной плитки от пола до потолка "><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point2" data-tooltip="Удаление пыли с потолка  "><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point3" data-tooltip="Мойка внутренних поверхностей зеркальных шкафчиков "><i class="fa fa-circle" aria-hidden="true"></i></span>
+							</div>
+							<div class="points orang2">
+								<span class="point1"  data-tooltip="Уборка пола: удаление строительной пыли,<br> грязи, пятен краски, цемента"><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point2" data-tooltip="Мойка всех поверхностей: мебель, светильники,<br> радиаторы отопления, техника" ><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point3" data-tooltip="Мойка сантехники, удаление загрязнений с плитки, очистка швов" ><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point4" data-tooltip="Мойка внутренней отделки балконов и лоджий " ><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point5" data-tooltip="Чистка стен, декоративных стеновых покрытий<br> от строительной пыли и загрязнений" ><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point6" data-tooltip="Сухая очистка потолков от строительной пыли" ><i class="fa fa-circle" aria-hidden="true"></i></span>
+							</div>
+						</div>
+						<div class="img-slid3">
+							<img class="slid3" src="img/kuhna2-ch.png" alt="">
+							<div class="points green3">
+								<span class="point1" data-tooltip="Уборка вещей и раскладка их <br> в аккуратные стопочки "><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point2" data-tooltip="Протирка пыли со всех горизонт.<br> поверхн. (не выше поднятой руки)"><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point3" data-tooltip="Протирка пыли с напольных и <br> настольных осветительных приборов"><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point4" data-tooltip="Мытье зеркал "><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point5" data-tooltip="Сухая уборка пылесосом полов,<br> ковролина и напольных ковров"><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point6" data-tooltip="Мойка пола бактерицидными,<br> ухаживающими средствами. "><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point7" data-tooltip="Вынос мусора (до 10 кг.) "><i class="fa fa-circle" aria-hidden="true"></i></span>
+							</div>
+							<div class="points blue3">
+								<span class="point1" data-tooltip="Чистка настенных осветительных приборов  "><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point2" data-tooltip="Протирка, плинтусов "><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point3" data-tooltip="Протирка внешних деревянных поверхностей мебели и дверных блоков "><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point4" data-tooltip="Протирка отопительных батарей и экранов на них "><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point5" data-tooltip="Протирка крупных предметов интерьера "><i class="fa fa-circle" aria-hidden="true"></i></span>
+
+							</div>
+							<div class="points red3">
+								<span class="point1" data-tooltip="Сухая уборка пылесосом мягкой мебели  "><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point2" data-tooltip="Протирка внутренних поверхностей мебели "><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point3" data-tooltip="Протирка ламп, люстр на потолке (кроме хрусталя)"><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point4" data-tooltip="Удаление пыли с карнизов, протирка кондиционеров  "><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point5" data-tooltip="Протирка от пыли стен и потолков сухим мопом "><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point6" data-tooltip="Удаление пыли влажным способом с кожаной мебели  "><i class="fa fa-circle" aria-hidden="true"></i></span>
+							</div>
+							<div class="points orang3">
+								<span class="point1"  data-tooltip="Уборка пола: удаление строительной пыли,<br> грязи, пятен краски, цемента"><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point2" data-tooltip="Мойка всех поверхностей: мебель, светильники,<br> радиаторы отопления, техника" ><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point3" data-tooltip="Мойка сантехники, удаление загрязнений с плитки, очистка швов" ><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point4" data-tooltip="Мойка внутренней отделки балконов и лоджий " ><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point5" data-tooltip="Чистка стен, декоративных стеновых покрытий<br> от строительной пыли и загрязнений" ><i class="fa fa-circle" aria-hidden="true"></i></span>
+								<span class="point6" data-tooltip="Сухая очистка потолков от строительной пыли" ><i class="fa fa-circle" aria-hidden="true"></i></span>
+							</div>
+						</div>
+					</div>
+
+					</div>
+					<div class="buttons">
+						<button  class="expresBtn" id="expresBtn">ЭКСПРЕСС</button>
+						<button class="standartBtn" id="standartBtn">СТАНДАРТ</button>
+						<button  class="vipBtn" id="vipBtn">VIP</button>
+						<button  class="poslestroyBtn" id="poslestroyBtn">ПОСЛЕСТРОЙ</button>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="bloc-3">
+		<h1>Наши преимущества</h1>
+		<p class="slogan-sec2">Более 8 лет на рынке</p>
+		<div class="container">
+			<div class="row">
+				<!-- row 1-->
+				<div class="col-md-3 col-sm-4">
+					<img src="img/item-1.png" alt="" class="preim-img">
+					<div class="wrap-text-pre">
+						<p class="text-preim">Более 8 лет на рынке</p>
+					</div>
+				</div>
+				<div class="col-md-3 col-sm-4">
+					<img src="img/item-2.png" alt="" class="preim-img">
+					<div class="wrap-text-pre">
+						<p class="text-preim text-3">Точные тарифы
+							с фиксированными
+							ценами</p>
+					</div>
+				</div>
+				<div class="col-md-3 col-sm-4">
+					<img src="img/item-3.png" alt="" class="preim-img">
+					<div class="wrap-text-pre">
+						<p class="text-preim text-4">
+							Экологичные
+							гипоаллергенные
+							моющие средства
+						</p>
+					</div>
+				</div>
+				<div class="col-md-3 col-sm-4">
+					<img src="img/item-4.png" alt="" class="preim-img">
+					<div class="wrap-text-pre">
+						<p class="text-preim">
+							Оперативно
+							приедем через
+							2 часа
+						</p>
+					</div>
+				</div>
+				<!-- row 2-->
+				<div class="col-md-3 col-sm-4">
+					<img src="img/item-5.png" alt="" class="preim-img">
+					<div class="wrap-text-pre">
+						<p class="text-preim">
+							Круглосуточный
+							прием заказов
+						</p>
+					</div>
+				</div>
+				<div class="col-md-3 col-sm-4">
+					<img src="img/item-6.png" alt="" class="preim-img">
+					<div class="wrap-text-pre">
+						<p class="text-preim text-6">
+							Доставка
+							ключей
+						</p>
+					</div>
+				</div>
+				<div class="col-md-3 col-sm-4">
+					<img src="img/item-7.png" alt="" class="preim-img">
+					<div class="wrap-text-pre">
+						<p class="text-preim">
+							Простой и
+							удобный расчет
+						</p>
+					</div>
+				</div>
+				<div class="col-md-3 col-sm-4">
+					<img src="img/item-8.png" alt="" class="preim-img">
+					<div class="wrap-text-pre">
+						<p class="text-preim">
+							Большой
+							перечень услуг
+						</p>
+					</div>
+				</div>
+				<!-- row 3-->
+				<div class="col-md-3 col-sm-4">
+					<img src="img/item-9.png" alt="" class="preim-img">
+					<div class="wrap-text-pre">
+						<p class="text-preim text-6">
+							Контроль
+							качества
+						</p>
+					</div>
+				</div>
+				<div class="col-md-3 col-sm-4">
+					<img src="img/item-10.png" alt="" class="preim-img">
+					<div class="wrap-text-pre">
+						<p class="text-preim text-6">
+							Оплата
+							карты
+						</p>
+					</div>
+				</div>
+				<div class="col-md-3 col-sm-4">
+					<img src="img/item-11.png" alt="" class="preim-img">
+					<div class="wrap-text-pre">
+						<p class="text-preim text-3">
+							ВелиВер под рукой
+							моб. приложение
+							для IOS
+						</p>
+					</div>
+				</div>
+				<div class="col-md-3 col-sm-4">
+					<img src="img/item-12.png" alt="" class="preim-img">
+					<div class="wrap-text-pre">
+						<p class="text-preim">
+							VIP уборка
+							все включено
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+</div>
+<div class="bg_bloc-3  ">
+	<section>
+		<h2>Наши возможности</h2>
+		<div class="wrap-gallery">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-4">
+						<div class="wrap-photo">
+							<div class="bg-hover">
+								<p class="moyka">
+									химчистка мягкой мебели
+								</p>
+								<a href="#" class="gall-per">ПОДРОБНЕЕ<i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i></a>
+							</div>
+							<img src="img/img-1.jpg" alt="" class="photo-gall">
+						</div>
+					</div>
+					<div class="col-md-4">
+						<div class="wrap-photo">
+							<div class="bg-hover">
+								<p class="moyka">
+									МОЙКА ОКОН И
+									БАЛКОНОВ
+								</p>
+								<a href="#" class="gall-per">ПОДРОБНЕЕ<i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i></a>
+							</div>
+							<img src="img/img-2.jpg" alt="" class="photo-gall">
+						</div>
+					</div>
+					<div class="col-md-4">
+						<div class="wrap-photo">
+							<div class="bg-hover">
+								<p class="moyka">
+									мойка окон альпинистами
+								</p>
+								<a href="#" class="gall-per">ПОДРОБНЕЕ<i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i></a>
+							</div>
+							<img src="img/img-3.jpg" alt="" class="photo-gall">
+						</div>
+					</div>
+					<!-- row 2-->
+					<div class="col-md-4">
+						<div class="wrap-photo">
+							<div class="bg-hover">
+								<p class="moyka">
+									уборка коттеджей
+								</p>
+								<a href="#" class="gall-per">ПОДРОБНЕЕ<i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i></a>
+							</div>
+							<img src="img/img-4.jpg" alt="" class="photo-gall">
+						</div>
+					</div>
+					<div class="col-md-4">
+						<div class="wrap-photo">
+							<div class="bg-hover">
+								<p class="moyka">
+									уборка офисов
+								</p>
+								<a href="#" class="gall-per">ПОДРОБНЕЕ<i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i></a>
+							</div>
+							<img src="img/img-5.jpg" alt="" class="photo-gall">
+						</div>
+					</div>
+					<div class="col-md-4">
+						<div class="wrap-photo">
+							<div class="bg-hover">
+								<p class="moyka">
+									чистка потолков
+								</p>
+								<a href="#" class="gall-per">ПОДРОБНЕЕ<i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i></a>
+							</div>
+							<img src="img/img-6.jpg" alt="" class="photo-gall">
+						</div>
+					</div>
+					<!-- row 3-->
+					<div class="col-md-4">
+						<div class="wrap-photo">
+							<div class="bg-hover">
+								<p class="moyka">
+									полировка полов
+								</p>
+								<a href="#" class="gall-per">ПОДРОБНЕЕ<i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i></a>
+							</div>
+							<img src="img/img-7.jpg" alt="" class="photo-gall">
+						</div>
+					</div>
+					<div class="col-md-4">
+						<div class="wrap-photo">
+							<div class="bg-hover">
+								<p class="moyka">
+									чистка штор
+								</p>
+								<a href="#" class="gall-per">ПОДРОБНЕЕ<i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i></a>
+							</div>
+							<img src="img/img-8.jpg" alt="" class="photo-gall">
+						</div>
+					</div>
+					<div class="col-md-4">
+						<div class="wrap-photo">
+							<div class="bg-hover">
+								<p class="moyka">
+									вынос мусора
+								</p>
+								<a href="#" class="gall-per">ПОДРОБНЕЕ<i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i></a>
+							</div>
+							<img src="img/img-9.jpg" alt="" class="photo-gall">
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<article>
+		<h3>Отзывы о нас</h3>
+		<!-- slik  -->
+		<div class="slik">
+			<div>
+				<img class="img-slider" src="img/ot-img-1.png" alt="">
+				<p class="name-photo">Анна Петрова</p>
+				<p class="text-slik">
+					«Просто чудесная. Она сделала нашу
+					квартиру местом, где хочется
+					проводить время»
+				</p>
+			</div>
+			<div>
+				<img class="img-slider" src="img/ot-img-1.png" alt="">
+				<p class="name-photo">Анна Петрова</p>
+				<p class="text-slik">
+					«Просто чудесная. Она сделала нашу
+					квартиру местом, где хочется
+					проводить время»
+				</p>
+			</div>
+			<div>
+				<img class="img-slider" src="img/ot-img-1.png" alt="">
+				<p class="name-photo">Анна Петрова</p>
+				<p class="text-slik">
+					«Просто чудесная. Она сделала нашу
+					квартиру местом, где хочется
+					проводить время»
+				</p>
+			</div>
+		</div>
+	</article>
+	<article class="company">
+		<h4>Компании с которыми мы работаем</h4>
+		<div class="brand">
+			<img src="img/logo-1.png" alt="" class="brands">
+			<img src="img/logo-2.png" alt="" class="brands">
+			<img src="img/logo-3.png" alt="" class="brands">
+			<img src="img/logo-4.png" alt="" class="brands">
+			<img src="img/logo-5.png" alt="" class="brands">
+			<img src="img/logo-6.png" alt="" class="brands">
+		</div>
+	</article>
+</div>
+<div class="footer-bg">
+	<footer>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-4">
+					<div class="marg">
+						<ul class="adres">
+							<li><a href="tel:+79602222222"><i class="fa fa-user-o" aria-hidden="true"></i>Тел: +7 960 222 22 22</a></li>
+							<li><a href="mailto:VeliVer@gmail.com"><i class="fa fa-envelope-o" aria-hidden="true"></i>E-mail: VeliVer@gmail.com</a></li>
+							<li><a href="#"><i class="fa fa-map-marker" aria-hidden="true"></i>Адрес: г.Москва, Тверская<br> <span class="pus">улица, дом 13.</span></a></li>
+						</ul>
+						<a href="#" class="perehod">БЛОГ</a>
+						<a href="#" class="perehod">О НАС</a>
+						<a href="#" class="soglas">Пользовательское соглашение</a>
+					</div>
+
+				</div>
+				<div class="col-md-4">
+					<ul class="soc-foot ">
+						<li class="icon icon-mob"><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+						<li class="icon icon-mob"><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+						<li class="yotube icon icon-mob" ><a href="#"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
+						<li  class="icon icon-mob"><a href="#"><i class="fa fa-vk" aria-hidden="true"></i></a></li>
+					</ul>
+				</div>
+				<div class="col-md-4">
+					<div class="visa">
+						<p class="text-visa">Мы принимаем:</p>
+						<a href="#"><img src="img/mastercard-footer.png" alt=""></a>
+						<a href="#"><img src="img/visa.png" alt=""></a>
+						<a href="#"><img src="img/item-footer-app.png" alt="" class="appfoo"></a>
+					</div>
+
+				</div>
+			</div>
+		</div>
+	</footer>
+</div>
 
 
 
@@ -130,14 +664,44 @@
 
 
 	<script src="libs/jquery/jquery-1.11.1.min.js"></script>
+
 	<script src="libs/jquery-mousewheel/jquery.mousewheel.min.js"></script>
 	<script src="libs/fancybox/jquery.fancybox.pack.js"></script>
 	<script src="libs/waypoints/waypoints-1.6.2.min.js"></script>
 	<script src="libs/scrollto/jquery.scrollTo.min.js"></script>
 	<script src="libs/owl-carousel/owl.carousel.min.js"></script>
+	<script src="libs/slik/slick.js"></script>
 	<script src="libs/landing-nav/navigation.js"></script>
 	<script src="libs/crros-browser/cross-browser.js"></script>
 	<script src="libs/title/html5tooltips.js"></script>
+	<script src="libs/slider_1/jquery.waterwheelCarousel.js"></script>
+	<script>
+		$(document).ready(function() {
+			$("#carousel").waterwheelCarousel({
+			});
+		});
+	</script>
+	<script>
+		$(document).ready(function() {
+			$("#carousel2").waterwheelCarousel({
+				orientation: 'vertical',
+				separation: 130,
+				vertical: 0
+			});
+		});
+	</script>
+	<script>
+		$(document).ready(function(){
+			$('.slik').slick({
+				adaptiveHeight: true,
+				dots:true,
+				arrows:false,
+				centerMode:true,
+				fade:true
+
+			});
+		});
+	</script>
 	<script>
 		html5tooltips({
 			animateFunction: "spin",
